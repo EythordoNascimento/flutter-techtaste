@@ -1,6 +1,6 @@
 # flutter_techtaste
 
-A new Flutter project.
+Este projeto foi desenvolvido durante a Imersão Alura, que ofereceu uma jornada completa e prática no universo do Flutter. Ao longo da imersão, explorei a criação de interfaces visuais, lógica de aplicativos multiplataforma e aprendi a transformar ideias em código funcional. Essa experiência foi essencial para aprimorar meu conhecimento e entender na prática o potencial do Flutter. 🚀💻
 
 ## Getting Started
 
